@@ -9,6 +9,7 @@ Free PHP Projects
 <ul>
 <li><a href="http://www.techzoo.org/projects/php-projects/online-auction-system-project-in-php.html">Online Auction Manangement System</a></li>
 <p>Online Auction management system is a project is developed in PHP and MySQL with the aim to develope a Online auction system where administrator of the site can login and add auction items so user can search and view details of auction items with images, address and auction date / time.</p>
+<img src="http://www.techzoo.org/wp-content/uploads/2014/12/auction-admin-module.png" />
 
 <li><a href="http://www.techzoo.org/projects/online-complain-management-system-php-project.html">Online Complain Management System</a></li>
 <p>Online Complain Management is a Web based project developed in PHP/MySQL which used to manage Customer’s complain Online. User can login, and Create complain, view complain details and track the status of its complain. It has one Admin module where Admin can login and View all complaint details, assign the complain to specific Engineer to work and check the status of Assigned Complain. Admin can Create/ Update or Delete engineers details, View reports based on Prebuild Criterias.</p>
