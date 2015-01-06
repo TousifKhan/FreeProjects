@@ -15,4 +15,5 @@ Free PHP Projects
 
 <li><a href="http://www.techzoo.org/projects/it-asset-management-system-project-in-php.html">IT Asset Management System</a></li>
 <p>IT asset management is a simple project used to track stock of any organization’s IT assets. Any organization (specifically Institute, University etc) can use this project to take an inventory of their existing Hardware/software stocks. They can manage there vendors, categories and users and Labs.</p>
+<img src="http://www.techzoo.org/wp-content/uploads/2013/03/Asset-Management-Stock.png" />
 </ul>
