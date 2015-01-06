@@ -9,5 +9,5 @@ Free PHP Projects
 <ul>
 <li><a href="http://www.techzoo.org/projects/php-projects/online-auction-system-project-in-php.html">Online Auction Manangement System</a></li>
 <li><a href="http://www.techzoo.org/projects/online-complain-management-system-php-project.html">Online Complain Management System</a></li>
-<li><a href="http://www.techzoo.org/projects/php-projects/online-auction-system-project-in-php.html">Online Auction Manangement System</a></li>
+<li><a href="http://www.techzoo.org/projects/it-asset-management-system-project-in-php.html">IT Asset Management System</a></li>
 </ul>
