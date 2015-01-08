@@ -13,8 +13,10 @@ Free PHP Projects
 
 <li><a href="http://www.techzoo.org/projects/online-complain-management-system-php-project.html">Online Complain Management System</a></li>
 <p>Online Complain Management is a Web based project developed in PHP/MySQL which used to manage Customer’s complain Online. User can login, and Create complain, view complain details and track the status of its complain. It has one Admin module where Admin can login and View all complaint details, assign the complain to specific Engineer to work and check the status of Assigned Complain. Admin can Create/ Update or Delete engineers details, View reports based on Prebuild Criterias.</p>
+<img scr="http://www.techzoo.org/wp-content/uploads/2014/03/complainmgmt-landing.png" />
 
 <li><a href="http://www.techzoo.org/projects/it-asset-management-system-project-in-php.html">IT Asset Management System</a></li>
 <p>IT asset management is a simple project used to track stock of any organization’s IT assets. Any organization (specifically Institute, University etc) can use this project to take an inventory of their existing Hardware/software stocks. They can manage there vendors, categories and users and Labs.</p>
 <img src="http://www.techzoo.org/wp-content/uploads/2013/03/Asset-Management-Stock.png" />
+
 </ul>
