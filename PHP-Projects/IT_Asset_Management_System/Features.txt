@@ -1,0 +1,10 @@
+Features
+===================
+Dashboard
+Assignment, Assign Asset to User(s)
+Add/Update/Delete Vendors
+Add/Update/Delete Category
+Search
+Manage Users
+Manage Labs
+Makage Stocks (Hardware/Software)
